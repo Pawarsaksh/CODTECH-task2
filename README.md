@@ -39,3 +39,6 @@ The "Grading System Program" typically refers to software designed to manage and
    - **Integration**: Ensuring the system integrates well with existing school management software or processes.
 
 Overall, a grading system program aims to simplify the task of managing grades and improve transparency and efficiency in academic assessment processes within educational institutions.
+
+
+![image](https://github.com/user-attachments/assets/cc4c9dfd-df31-47c6-b4a6-d120de5185d5)
