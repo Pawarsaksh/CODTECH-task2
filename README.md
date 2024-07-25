@@ -1,9 +1,9 @@
-**Name**: Sakshi Chandrakant Pawar
-**Company**: CODTECH IT SOLUTIONS
-**ID**: CT08DS3765
-**Domain**: Python Programming
-**Duration**: July to August 2024
-**Mentor**: Neela Santhos Kumar
+**Name:** Sakshi Chandrakant Pawar
+**Company:** CODTECH IT SOLUTIONS
+**ID:** CT08DS3765
+**Domain:** Python Programming
+**Duration:** July to August 2024
+**Mentor:** Neela Santhos Kumar
 
 The "Grading System Program" typically refers to software designed to manage and process academic grades for students. Here's an overview of what such a project might entail:
 
